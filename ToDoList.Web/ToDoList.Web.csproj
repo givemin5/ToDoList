@@ -105,6 +105,7 @@
     <Content Include="messages.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Views\Home\Index.cshtml" />
     <Content Include="widgets.html" />
     <Content Include="README.md" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -133,7 +134,6 @@
     <Content Include="packages.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
